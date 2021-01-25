@@ -1,4 +1,3 @@
-
  .screens::-webkit-scrollbar {
   display: none;   
 }
@@ -6,9 +5,10 @@
 background-color:#cccccc;
 }
 
-/* .faces::-webkit-scrollbar {
-  display: none;   
-}　*/
+.faces {
+  height:98%; 
+ overflow-x: scroll;
+}　
 
 .headerTable {
     height: 69px;
