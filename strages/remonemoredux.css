@@ -1,0 +1,42 @@
+
+ .screens::-webkit-scrollbar {
+  display: none;   
+}
+ .screens {
+background-color:#cccccc;
+}
+
+/* .faces::-webkit-scrollbar {
+  display: none;   
+}　*/
+
+.headerTable {
+    height: 69px;
+    }
+    
+    
+#tc3 {
+  height: 70px;
+  background-color:#D9CBC3;
+}
+
+.chat {
+background-color:#CCE3DA;
+}
+    
+.chatFrom {
+    font-size: 120%;
+}
+
+.chatTo {
+    font-size: 120%;
+}
+.chatTo:after {
+content: "(あなた)";
+}
+
+.chatMessage {
+  width: 101%;
+  font-size: 110%;
+
+}
