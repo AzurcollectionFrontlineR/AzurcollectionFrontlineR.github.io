@@ -38,5 +38,6 @@ content: "(あなた)";
 .chatMessage {
   width: 101%;
   font-size: 110%;
-
+  word-wrap: break-word;
 }
+
